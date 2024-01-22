@@ -1,0 +1,17 @@
+{
+  "name": "v8-skip-pauses-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "serve": "npx http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.7.0",
+    "ws": "^8.16.0",
+    "http-server": "^14.1.1"
+  }
+}
